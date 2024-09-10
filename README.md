@@ -1,1 +1,1 @@
-The code we used to control communications and vent response
+The code to control remote-vent communications and vent response
